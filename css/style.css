@@ -2949,7 +2949,7 @@ Section Title
   width: 40px;
   margin-left: 10px;
   margin-top: -1px;
-  background: var(--bg-theme-color2);
+  background: #fAf9f6;
   content: "";
 }
 .sec-title h1 {
@@ -2982,7 +2982,7 @@ Section Title
   color: #8c8f94;
 }
 .sec-title.light .sub-title {
-  color: var(--theme-color2);
+  color:#fAf9f6 ;
 }
 
 .sec-title.light h2,
@@ -5122,7 +5122,7 @@ Section Title
   top: 0;
   height: 100%;
   width: 200px;
-  background-color: var(--bg-theme-color1);
+  background-color: #0D1E3C;
   content: "";
 }
 .about-section-six .image-column .image-box:after {
