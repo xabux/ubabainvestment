@@ -12834,8 +12834,7 @@ Page Title
   }
   100% {
     -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
-  }
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);  }
 }
 @keyframes "ripple" {
   70% {
